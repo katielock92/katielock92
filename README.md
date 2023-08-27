@@ -42,7 +42,7 @@ ___
 ### 📧 Contact:
 
 
--  <a
+<a
     href="https://www.linkedin.com/in/katielock92/"
     target="_blank">
     <img
@@ -50,8 +50,10 @@ ___
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
+
 - [Portfolio](https://katieelsomlock.com)
 - Email: katie@katieelsomlock.com
+
 ___
 
 
